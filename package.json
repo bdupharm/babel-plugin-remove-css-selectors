@@ -1,0 +1,18 @@
+{
+  "name": "babel-plugin-remove-css-selectors",
+  "version": "1.0.0",
+  "description": "Babel plugin for removing css selectors",
+  "main": "lib/plugin.js",
+  "dependencies": {
+    "babel-traverse": "^6.9.0",
+    "babel-types": "^6.9.1",
+    "babylon": "^6.8.0",
+    "react": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bo Du",
+  "license": "ISC"
+}

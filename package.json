@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-remove-css-selectors",
+  "name": "babel-plugin-remove-object-properties",
   "version": "1.0.0",
-  "description": "Babel plugin for removing css selectors",
+  "description": "Babel plugin for removing object properties",
   "main": "lib/plugin.js",
   "dependencies": {
     "babel-generator": "^6.10.0",
@@ -15,5 +15,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bo Du",
-  "license": "ISC"
+  "license": "MIT"
 }

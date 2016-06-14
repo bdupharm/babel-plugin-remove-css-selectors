@@ -15,5 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bo Du",
+  "url": "https://github.com/bdupharm/babel-plugin-remove-object-properties",
   "license": "MIT"
 }

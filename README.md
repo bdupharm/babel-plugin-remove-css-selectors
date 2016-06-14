@@ -1,3 +1,3 @@
-# Babel Plugin for Removing CSS Selectors
+# Babel Plugin for Removing Object Properties
 
-Prototyping...
+Removes nodes that match a supplied regex if the node is of type `ObjectProperty`.

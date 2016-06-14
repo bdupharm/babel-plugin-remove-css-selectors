@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-remove-object-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel plugin for removing object properties",
   "main": "lib/plugin.js",
   "dependencies": {

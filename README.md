@@ -16,6 +16,6 @@ $ npm install babel-plugin-remove-object-properties
 
 ```json
 {
-  "plugins": [["transform-remove-console", { "regexp", "toBeRemoved*" }]]
+  "plugins": [["remove-object-properties", { "regexp", "toBeRemoved*" }]]
 }
 ```
